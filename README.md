@@ -34,7 +34,7 @@ location / {
 }
 ```
 
-> 其他的不在这里过多展示，详见视频教程（[PHP\_Robot部署教程——视频篇-Project-老嘤的秘密基地 (loyin.top)](thread-255.htm)）
+> 其他的不在这里过多展示，详见视频教程（[PHP\_Robot部署教程——视频篇-Project-老嘤的秘密基地 (loyin.top)](http://blog.loyin.top/thread-255.htm)）
 
 ## 故障排除❓
 
