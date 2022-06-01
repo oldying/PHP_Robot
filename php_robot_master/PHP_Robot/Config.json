@@ -1,7 +1,0 @@
-{
-  "HOST": "",
-  "PORT": "",
-  "MASTER":"",
-  "DEBUG": false,
-  "AUTH_GROUP":[""]
-}
